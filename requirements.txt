@@ -8,3 +8,4 @@ pydeck
 geopandas
 shapely
 fiona
+matplotlib
