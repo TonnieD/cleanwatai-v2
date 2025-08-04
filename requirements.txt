@@ -1,7 +1,10 @@
-streamlit==1.27.2
+streamlit
+nltk
 pandas
 numpy
 scikit-learn
-matplotlib
-seaborn
-nltk
+joblib
+pydeck
+geopandas
+shapely
+fiona
